@@ -1,0 +1,8 @@
+-----------------------------------------
+HiOS! Command List 
+-----------------------------------------
+
+curVers  -> retrieves current version 
+exit -> Exits the HiOS! :( 
+sDate -> Shows current date & time
+sDir -> Shows directory folders
