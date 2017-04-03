@@ -4,7 +4,7 @@
 ### Date: Dec 2016
 ### Language: C++ 
 ### IDE/Editor: Qt
-### Notes: Subject to further development
+#### Notes: Subject to further development
 #
 ----------------------------------------------------------------
 #
